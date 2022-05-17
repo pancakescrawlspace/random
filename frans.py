@@ -13,8 +13,8 @@ NUM = 8;
 total = np.zeros(NUM + 5);
 total[5] = 1;
 
-for i in range(6, NUM + 5):
-    total[i] = sum(total[i - 6 : i]) / 6;
-    print("Kans op een tussentotaal van " + str(i - 5) + ": " + str(total[i]));
+for i in range(NUM - 1):
+    total[i + 6] = sum(total[i : i + 6]) / 6;
+    print("Kans op een tussentotaal van " + str(i + 1) + ": " + str(total[i + 6]));
 
 print("\nKans op een solo: " + str(sum(total[5 : NUM + 5]) / NUM / 6));
