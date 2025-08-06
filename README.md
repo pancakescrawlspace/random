@@ -6,7 +6,7 @@ Deze plek wordt gerund door een eigenzinnig mens, die het volgende systeem heeft
 
 Er ontstaat nu het volgende raadsel: als ik mijn kansen om op te treden wil maximaliseren (of juist niet), als de hoeveelste persoon moet ik dan binnenkomen? Of simpeler gesteld: hoe varieert de kans dat de *N*-de persoon mag optreden met *N*?
 
-Dit is geen triviaal probleem, en ook de specifiekere vraag, hoe de kans zich gedraagt wanneer *N* groot is, is niet echt simpel. Bovendien is er, naast een meer mechanische oplossing, die wat wiskundige techniek vereist, ook een slimme oplossing die alleen gebruik maakt van "elementaire" wiskunde.
+Dit is geen triviaal probleem, en ook de specifiekere vraag hoe de kans zich gedraagt wanneer *N* groot is is niet echt simpel. Bovendien is er naast een meer mechanische oplossing die wat wiskundige techniek vereist, ook een slimme oplossing die alleen gebruik maakt van "elementaire" wiskunde.
 
 Aan de andere kant, als je het trucje een keer gezien hebt, dan is het niet moeilijk meer. 
 
