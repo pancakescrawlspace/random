@@ -2,7 +2,7 @@
 
 Elke zaterdagavond bezoekt Z., een van de leidende muzikale denkers van onze tijd, het *open podium event* van een artistieke vrijplaats.
 
-Deze plek wordt gerund door enkele originele geesten, die het volgende systeem hebben bedacht om aan de hand van het lot te bepalen wie het podium mag betreden. Voordat dat de eerste gegadigde de *venue* betreedt, wordt er een dobbelsteen gegooid. Het getal *N* dat nu verschijnt is het volgnummer van de eerste artiest. Nadat de *N*-de bezoeker zich heeft aangediend, en heeft vernomen dat hij of zij op mag, wordt de dobbelsteen weer gegooid, en dit proces wordt zo steeds herhaald. 
+Deze plek wordt gerund door een originele geest, die het volgende systeem heeft bedacht om aan de hand van het lot te bepalen wie het podium mag betreden. Voordat dat de eerste gegadigde de *venue* betreedt, wordt er een dobbelsteen gegooid. Het getal *N* dat nu verschijnt is het volgnummer van de eerste artiest. Nadat de *N*-de bezoeker zich heeft aangediend, en heeft vernomen dat hij of zij op mag, wordt de dobbelsteen weer gegooid, en dit proces wordt zo steeds herhaald. 
 
 Er ontstaat nu het volgende raadsel: als ik mijn kansen om op te treden wil maximaliseren (of juist niet), als de hoeveelste persoon moet ik dan binnenkomen? Of simpeler gesteld: hoe varieert de kans dat de *N*-de persoon mag optreden met *N*?
 
